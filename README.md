@@ -5,7 +5,7 @@ Front End: HTML, CSS, Bootstrap<br/>
 Back End: JavaScript<br/>
 Database: LocalStorage
 # Features
-CRUD Operations
+CRUD Operations<br/>
 Add product to wishlist<br/>
 Signup and Signin<br/>
 Role: simple user, Super Admin, Store Admin<br/>
